@@ -1,0 +1,2 @@
+# symfonyProject
+beginer symfony project
